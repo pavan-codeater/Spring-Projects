@@ -1,0 +1,24 @@
+package com.example.springdemo;
+
+import org.springframework.context.annotation.Primary;
+import org.springframework.stereotype.Component;
+
+@Component
+@Primary
+public class TennisCoach implements Coach{
+
+	public TennisCoach() {
+		// TODO Auto-generated constructor stub
+	}
+
+	@Override
+	public String getDailyWorkouts() {
+		
+		return "Play Daily Tennis";
+	}
+
+	
+	
+	
+	
+}

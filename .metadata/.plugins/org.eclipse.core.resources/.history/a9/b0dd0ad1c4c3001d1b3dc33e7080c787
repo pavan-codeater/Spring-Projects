@@ -1,0 +1,10 @@
+management.endpoints.web.exposure.include=*
+management.info.env.enabled=true
+
+#Exclude individual EndPoints with a comma-delimited list
+
+
+info.app.name=Suepr cool app
+info.app.descriptino=A Crazy App
+info.app.version=1.0
+

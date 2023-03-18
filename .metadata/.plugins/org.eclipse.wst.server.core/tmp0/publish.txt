@@ -1,0 +1,8 @@
+#Tomcat publish data
+#Wed Mar 15 16:08:46 IST 2023
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\acer\\.m2\\repository\\org\\springframework\\spring-web\\5.1.7.RELEASE\\spring-web-5.1.7.RELEASE.jar=WEB-INF/lib/spring-web-5.1.7.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\acer\\.m2\\repository\\org\\springframework\\spring-web\\5.0.6.RELEASE\\spring-web-5.0.6.RELEASE.jar=WEB-INF/lib/spring-web-5.0.6.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\acer\\eclipse-workspace\\web-customer-tracker\\WebContent\\WEB-INF\\lib\\spring-web-5.3.9.jar=WEB-INF/lib/spring-web-5.3.9.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\acer\\eclipse-workspace\\spring-mvc-demo\\WebContent\\WEB-INF\\lib\\spring-web-5.3.9.jar=WEB-INF/lib/spring-web-5.3.9.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\acer\\eclipse-workspace\\web-customer-tracker\\WebContent\\WEB-INF\\lib\\spring-web-5.3.9-sources.jar=WEB-INF/lib/spring-web-5.3.9-sources.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\acer\\eclipse-workspace\\spring-mvc-demo\\WebContent\\WEB-INF\\lib\\spring-web-5.3.9-sources.jar=WEB-INF/lib/spring-web-5.3.9-sources.jar

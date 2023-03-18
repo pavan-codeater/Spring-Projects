@@ -1,0 +1,10 @@
+package com.luv2code.spring.rest;
+
+import org.springframework.web.bind.annotation.ControllerAdvice;
+
+@ControllerAdvice
+public class CustomerRestExceptionHandler {
+
+	
+
+}

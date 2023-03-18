@@ -1,0 +1,24 @@
+
+    
+<%@ taglib prefix="form" uri="http://www.springframework.org/tags/form"  %>    
+    
+    
+    
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+
+<h3>My Custom Login Page</h3>
+
+<form:form actio="${pageContext.request.contextPath}/authenticateUsers">
+
+
+</form:form>
+
+
+</body>
+</html>

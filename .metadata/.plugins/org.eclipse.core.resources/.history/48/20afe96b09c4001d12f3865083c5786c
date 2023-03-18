@@ -1,0 +1,27 @@
+package com.example.cruddemo.Entity;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.Table;
+
+@Entity
+@Table(name="student")
+public class Student {
+
+	private int id;
+	
+	
+	
+	
+	
+	
+	
+	
+	public Student() {
+		// TODO Auto-generated constructor stub
+	}
+	
+	
+	
+	
+
+}

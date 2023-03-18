@@ -1,0 +1,9 @@
+package com.example.springdemo;
+
+public class SwimCoach implements Coach{
+
+	public SwimCoach() {
+		
+	}
+
+}

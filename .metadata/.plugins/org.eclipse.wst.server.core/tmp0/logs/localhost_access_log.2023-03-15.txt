@@ -1,0 +1,13 @@
+127.0.0.1 - - [15/Mar/2023:15:21:15 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [15/Mar/2023:15:21:17 +0530] "GET /spring-crm-rest/ HTTP/1.1" 200 68
+127.0.0.1 - - [15/Mar/2023:15:21:22 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [15/Mar/2023:15:21:33 +0530] "GET /spring-crm-rest/api/customers HTTP/1.1" 404 682
+127.0.0.1 - - [15/Mar/2023:15:24:24 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [15/Mar/2023:15:24:26 +0530] "GET /spring-crm-rest/ HTTP/1.1" 200 68
+127.0.0.1 - - [15/Mar/2023:15:24:37 +0530] "GET /spring-crm-rest/api HTTP/1.1" 404 682
+127.0.0.1 - - [15/Mar/2023:15:24:44 +0530] "GET /spring-crm-rest/api/customers HTTP/1.1" 404 682
+127.0.0.1 - - [15/Mar/2023:15:24:47 +0530] "GET /spring-crm-rest/api/customers/1 HTTP/1.1" 404 682
+127.0.0.1 - - [15/Mar/2023:16:09:49 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [15/Mar/2023:16:09:52 +0530] "GET /crm-web-app-rest-client-demo/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [15/Mar/2023:16:09:55 +0530] "GET /crm-web-app-rest-client-demo/customer/list HTTP/1.1" 500 4430
+0:0:0:0:0:0:0:1 - - [15/Mar/2023:16:09:57 +0530] "GET /favicon.ico HTTP/1.1" 404 762

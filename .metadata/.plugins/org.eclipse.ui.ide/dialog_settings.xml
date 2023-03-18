@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+		</list>
+	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\acer\Desktop\hibernate\crm-web-app-rest-client-demo"/>
+			<item value="C:\Users\acer\Desktop\today\spring-and-hibernate-for-beginners-master\04-spring-mvc-crud-5\solution-code-spring-mvc-CRUD-CRM-add-customer"/>
+			<item value="C:\Users\acer\Desktop\today\spring-and-hibernate-for-beginners-master\04-spring-mvc-crud-5"/>
+			<item value="C:\Users\acer\Desktop\temp\spring-hibernate-customer-tracker-with-maven-all-java-config"/>
+			<item value="C:\Users\acer\Desktop\temp\solution-code-spring-mvc-CRUD-CRM-delete-customer"/>
+			<item value="C:\Users\acer\Desktop\Dining_app"/>
+		</list>
+	</section>
+</section>

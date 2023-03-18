@@ -1,0 +1,9 @@
+package com.example.springdemo;
+
+public class AthleteCoach {
+
+	public AthleteCoach() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

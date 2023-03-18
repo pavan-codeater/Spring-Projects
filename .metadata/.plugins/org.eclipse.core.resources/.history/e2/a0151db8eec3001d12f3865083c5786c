@@ -1,0 +1,16 @@
+package com.example.springdemo;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class AthleteCoach implements Coach{
+
+	
+
+	@Override
+	public String getDailyWorkouts() {
+		
+		return "Daily 50kms marathon from on------";
+	}
+
+}

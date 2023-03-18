@@ -1,0 +1,9 @@
+package com.example.springdemo;
+
+public class SwimCoach {
+
+	public SwimCoach() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

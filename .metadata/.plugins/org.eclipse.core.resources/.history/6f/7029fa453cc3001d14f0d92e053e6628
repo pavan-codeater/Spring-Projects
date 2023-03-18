@@ -1,0 +1,8 @@
+management.endpoints.web.exposure.include=health,info
+management.info.env.enabled=true
+
+
+info.app.name=Suepr cool app
+info.app.descriptino=A Crazy App
+info.app.version=1.0
+

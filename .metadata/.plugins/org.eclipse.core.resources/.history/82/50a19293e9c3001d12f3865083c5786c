@@ -1,0 +1,11 @@
+package com.example.springdemo.controller;
+
+
+@RestController
+public class DemoController {
+
+	public DemoController() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

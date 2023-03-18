@@ -1,0 +1,16 @@
+package com.luv2code.spring.rest;
+
+public class CustomerErrorResponse {
+
+	private String message;
+	private int timeStamp;
+	private String status;
+	
+	
+	
+	
+	
+	
+	
+	public CustomerErrorResponse() {}
+}

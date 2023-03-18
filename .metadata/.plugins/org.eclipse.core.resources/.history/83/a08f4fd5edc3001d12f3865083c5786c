@@ -1,0 +1,13 @@
+package com.example.springdemo;
+
+public class AthleteCoach implements Coach{
+
+	
+
+	@Override
+	public String getDailyWorkouts() {
+		// TODO Auto-generated method stub
+		return "Daily 50kms marathon from on------";;
+	}
+
+}

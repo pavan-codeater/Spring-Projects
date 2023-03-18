@@ -1,0 +1,13 @@
+package com.example.springdemo;
+
+public class TennisCoach implements Coach{
+
+	public TennisCoach() {
+		// TODO Auto-generated constructor stub
+	}
+
+	
+	
+	
+	
+}

@@ -1,0 +1,9 @@
+package com.example.springdemo.config;
+
+public class SportsConfig {
+
+	public SportsConfig() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
